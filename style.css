@@ -53,7 +53,7 @@ section{
 }
 
 .heading::after{
-  content: url('../images/separator.svg');
+  content: url('images/separator.svg');
   display: block;
   width: 10rem;
   margin-inline: auto;
@@ -257,7 +257,7 @@ section{
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background: url(../images/home.jpg) no-repeat;
+  background: url(images/home.jpg) no-repeat;
   background-size: cover;
   background-position: center;
 }
